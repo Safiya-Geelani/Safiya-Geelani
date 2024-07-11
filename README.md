@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Safiya-Geelani
 - 👀 I’m interested in projects related to Programming, Data Analytics and Data Science.
-- 🌱 I’m currently learning Statistics and Data Science
+- 🌱 Always learning about Statistics and Data Science
 - 📫 You can reach me at geelanisafiya@gmail.com
